@@ -1,0 +1,1 @@
+The OTA files provided are only intended for use with the Raféphone Origin. Installing on any other devices will most certainly result in complete failure of installation and may even brick your phone.
