@@ -1,0 +1,22 @@
+{
+  "update": {
+    "version": "1.0",
+    "build": 1,
+    "release_date": "na",
+    "mandatory": "na",
+    "changelog": [
+      "na"
+    ],
+    "files": [
+      {
+        "name": "na",
+        "size": 0,
+        "checksum": "na",
+        "url": "na"
+      }
+    ],
+    "device_compatibility": [
+      "rafephone_origin"
+    ]
+  }
+}
